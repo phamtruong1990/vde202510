@@ -33,6 +33,8 @@
 - ServiceMySQL.yaml : `mysql-service.yaml`
 - PodMySQL.yaml : `mysql-pod.yaml`
 
+  ---Note: Trong trường hợp này, mình sẽ combine 2 yaml file "wordpress-service" và "wordpress-pod" thành 1 file "wordpress.yaml" duy nhất để dễ so sánh nội dung code bên trong.
+
 ----
 
 ## Nội dung cho các file Manifes
